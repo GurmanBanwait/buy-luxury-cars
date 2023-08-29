@@ -1,0 +1,135 @@
+
+*{
+  box-sizing:border-box;
+}
+
+.head{
+ overflow:hidden;
+ background-color:mintcream;
+ width: 100%;
+ height: 50px;
+}
+.logo{
+
+  margin-top:10px;
+  margin-left:30px;
+  float:left;
+  font-style: none;
+}
+a {
+  text-decoration: none;
+  color:#ff5722;
+}
+a:hover{
+  color:green;
+}
+
+.head-right{
+list-style-type:none; 
+}
+
+.list-1{
+ float:right;
+ margin-right:20px;
+ font-size: 18px;
+ color:green;
+
+}
+.list-1:hover{
+  color:#ff5722;
+}
+
+.navigation{
+ overflow:hidden;
+ background-color:mintcream;
+ width:100%;
+ height: 30px;
+}
+.unorder-list{
+list-style-type:none;
+}
+
+.list-2{
+ float:left;
+ margin-left:20px;
+ margin-top:-8px;
+ font-size:20px;
+}
+
+.photo-1{
+width: 100%;
+height: 550px;
+}
+.photo-2{
+
+  width: 100%;
+   height: 390px;
+}
+
+.photo-3{
+width: 100%;
+height: 290px;
+}
+
+.left{
+    height:400px;
+    width:30%;
+    
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+}
+.middle{
+    height:400px;
+    width:30%;
+    
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+}
+.right{
+    height:400px;
+    width:34%;
+    
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+}
+
+
+
+footer{
+  background-color:Black;
+    overflow:hidden;
+    width:100%;
+    height: 330px;
+  }
+  .footer-bottom{
+  background-color:Black;
+    overflow:hidden;
+    width:100%;
+    height: 50px; 
+  }
+ .f-li{
+  list-style-type:none;
+  color:white;
+  margin:10px;
+  font-size:15px;
+ }  
+ .footer1{
+  float:left;
+  margin-left:200px;
+ }
+ .footer-ul{
+  
+ }
+ .ls-head{
+  list-style-type: none;
+  margin:20px;
+  color:#ff5722;
+  font-size:25px;
+ }
+ .footer-para{
+  color:#ff5722;
+  margin:10px;
+ }
